@@ -1,0 +1,1 @@
+yarn workspace digital-assistant gatsby develop
