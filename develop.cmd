@@ -1,1 +1,1 @@
-yarn workspace digital-assistant gatsby develop
+cd platform-client-gatsby && yarn start
