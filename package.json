@@ -1,9 +1,0 @@
-{
-    "name": "spa-workspace",
-    "version": "0.0.1",   
-    "private": true,
-    "workspaces": [
-      "grommet",
-      "platform-client-gatsby"
-    ]
-  }
